@@ -7,11 +7,7 @@
 👨‍💻 Me apasiona el diseño y el desarrallo front end. 
 
 ### Tecnologías y herramientas aprendidas.
-<div align= "left">
-    <img>
-          ![js](https://github.com/David-Esteche/David-Esteche/assets/110946400/babe6f05-5bb0-4d94-a8ca-463db37bcbcb)
-  </img>
-</div>
+
 
 
 
