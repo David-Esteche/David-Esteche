@@ -8,7 +8,7 @@
 
 ### Tecnologías y herramientas aprendidas.
 <div align= "left">
-  <div class="overlayContainer" style="width: 347px; height: 217px; opacity: 0; pointer-events: all;"><img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo-2048x1280.png" alt="Javascript Transparent Background Svg, HD Png Download - vhv" class=" nofocus" tabindex="0" aria-label="Javascript Transparent Background Svg, HD Png Download - vhv" role="button" style="position: absolute; height: 100%; width: 100%; inset: 0px; margin: auto;"></div>
+
 </div>
 
 
