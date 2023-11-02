@@ -1,4 +1,17 @@
-### Hi there 👋soy David Esteche
+### Hi there, 👋soy David Esteche
+
+👨‍🎓 Transitando el último semestre de la carrera de Programación en la UTN, San Rafael - Argentina.
+
+📚 Actualmente soy estudiante del primer año del Profesorado de Ingles.
+
+👨‍💻 Me apasiona el diseño y el desarrallo front end. 
+
+### Tecnologías y herramientas aprendidas.
+
+
+
+
+
 
 <!--
 **David-Esteche/David-Esteche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
