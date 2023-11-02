@@ -1,12 +1,15 @@
 ### Hi there, 👋soy David Esteche
 
-👨‍🎓 Transitando el último semestre de la carrera de Programación en la UTN, San Rafael - Argentina.
+![web-development](https://github.com/David-Esteche/David-Esteche/assets/110946400/71d22d3a-6c00-40ec-a097-9562509c6084)
 
-📚 Actualmente soy estudiante del primer año del Profesorado de Ingles.
+👨‍🎓  Transitando el último semestre de la carrera de Programación en la UTN, San Rafael - Argentina.
 
-👨‍💻 Me apasiona el diseño y el desarrallo front end. 
+📚  Actualmente soy estudiante del primer año del Profesorado de Ingles.
+
+👨‍💻  Me apasiona el diseño y el desarrallo front end. 
 
 ### Tecnologías y herramientas aprendidas.
+
 
 
 
