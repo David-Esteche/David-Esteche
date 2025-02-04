@@ -2,9 +2,9 @@
 
 ![web-development](https://github.com/David-Esteche/David-Esteche/assets/110946400/71d22d3a-6c00-40ec-a097-9562509c6084)
 
-👨‍🎓  Transitando el último semestre de la carrera de Programación en la UTN, San Rafael - Argentina.
+👨‍🎓  Graduado de la carrera de Programación en la UTN, San Rafael - Argentina.
 
-📚  Actualmente soy estudiante del primer año del Profesorado de Ingles.
+📚  Actualmente soy estudiante de la Licenciatura en Ciberdefensa en undef.  
 
 👨‍💻  Me apasiona el diseño y el desarrallo front end. 
 
